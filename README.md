@@ -1,4 +1,4 @@
-# A glimpse of Factor or solving problem almost with oneliner code
+# A glimpse of Factor or solving problem almost with just oneliner code
 
 [Factor](https://factorcode.org) is a concatenative, stack-based programming language with high-level features.
 
