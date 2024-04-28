@@ -6,6 +6,8 @@ I just used [Online Factor Compiler](https://www.tutorialspoint.com/execute_fact
 
 I begin now to have a good grasp of what the [Forth](https://www.tutorialspoint.com/execute_factor_online.php) language is like... I just remember it was cited among others outstanding ones in our _Computer Science_ primer course years ago.
 
+The joy of weekend Coding or Recreational programming ❤️❤️❤️
+
 ## Problem #1
 
 ```factor
