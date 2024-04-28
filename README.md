@@ -2,6 +2,8 @@
 
 [Factor](https://factorcode.org) is a concatenative, stack-based programming language with high-level features.
 
+I just used [Online Factor Compiler](https://www.tutorialspoint.com/execute_factor_online.php) to harness them. Feel free to do the same... just by `Copy and Paste` and basta.
+
 ## Problem #1
 
 ```factor
