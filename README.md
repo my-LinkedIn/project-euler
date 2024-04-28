@@ -4,7 +4,7 @@
 
 I just used [Online Factor Compiler](https://www.tutorialspoint.com/execute_factor_online.php) to harness them. Feel free to do the same... just by `Copy and Paste` and basta.
 
-I begin now to have a good grasp of what is the [Forth](https://www.tutorialspoint.com/execute_factor_online.php) language is like.
+I begin now to have a good grasp of what is the [Forth](https://www.tutorialspoint.com/execute_factor_online.php) language is like... I just remember it was cited among others outstanding ones in our Computer Science primer course years ago.
 
 ## Problem #1
 
