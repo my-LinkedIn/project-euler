@@ -1,6 +1,6 @@
 # Solution to some Project Euler problem in Factor
 
-[Factor](https://factorcode.org)
+[Factor](https://factorcode.org) is a concatenative, stack-based programming language with high-level features.
 
 ## Problem #1
 
