@@ -1,4 +1,4 @@
-# Solution to some Project Euler problem in Factor
+# A glimpse of Factor
 
 [Factor](https://factorcode.org) is a concatenative, stack-based programming language with high-level features.
 
