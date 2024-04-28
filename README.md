@@ -1,5 +1,7 @@
 # Solution to some Project Euler problem in Factor
 
+[Factor](https://factorcode.org)
+
 ## Problem #1
 
 ```factor
